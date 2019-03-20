@@ -1,10 +1,9 @@
-import React from 'react'
 import Layout from '../components/layout/layout'
 
-const home = () => (
+const projects = () => (
     <Layout>
         <div>hello world</div>
     </Layout>
 );
 
-export default home;
+export default projects;
